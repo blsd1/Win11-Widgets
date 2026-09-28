@@ -1,0 +1,6 @@
+Weather icons (0.png - 47.png, 3200.png) are made from Fluent Emoji (3D)
+by Microsoft - https://github.com/microsoft/fluentui-emoji
+Copyright (c) Microsoft Corporation. Licensed under the MIT License.
+File names are the old Yahoo weather condition codes (see Weather-ExtraLarge.ini).
+WindDirection.png is the original Win10 Widgets image.
+Fog icons (19-22) and night cloudy icons (27, 29) are composites of the Fluent Emoji cloud / crescent moon.
