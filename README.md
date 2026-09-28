@@ -1,5 +1,5 @@
 # Win11 Widgets
-
+<img src="screenshots/Windows-11-Widgets.jpg" width="700" alt="Win11 Widgets preview">
 **A Windows 11 remake of the classic Win10 Widgets for [Rainmeter](https://www.rainmeter.net).**
 
 Win11 Widgets brings the clean, minimal desktop widgets of Win10 Widgets into the Windows 11
