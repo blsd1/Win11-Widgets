@@ -1,7 +1,0 @@
-{
-  "recommendations": [
-    "rust-lang.rust-analyzer",
-    "ms-vscode.powershell",
-    "tamasfe.even-better-toml"
-  ]
-}

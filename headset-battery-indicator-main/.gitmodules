@@ -1,6 +1,0 @@
-[submodule "vendor/headsetcontrol"]
-	path = vendor/headsetcontrol
-	url = https://github.com/sapd/headsetcontrol
-[submodule "hidapi"]
-	path = vendor/hidapi
-	url = https://github.com/libusb/hidapi
