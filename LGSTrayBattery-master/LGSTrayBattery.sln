@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LGSTrayHID", "LGSTrayHID\LGSTrayHID.csproj", "{EEA4B09D-17A7-486B-B570-72751D0D6071}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F85B7D61-5588-4BC1-8A46-E2A6899CFBC0} = {F85B7D61-5588-4BC1-8A46-E2A6899CFBC0}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LGSTrayCore", "LGSTrayCore\LGSTrayCore.csproj", "{FAF4FA85-B52C-4587-92E7-0D55645625AB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F85B7D61-5588-4BC1-8A46-E2A6899CFBC0} = {F85B7D61-5588-4BC1-8A46-E2A6899CFBC0}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LGSTrayUI", "LGSTrayUI\LGSTrayUI.csproj", "{2C80ABC3-6A95-4ED6-9265-D901CC6607BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LGSTrayPrimitives", "LGSTrayPrimitives\LGSTrayPrimitives.csproj", "{F85B7D61-5588-4BC1-8A46-E2A6899CFBC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9951E942-59D1-42A5-ABE3-7E6BAEDCDCEA}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA4B09D-17A7-486B-B570-72751D0D6071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA4B09D-17A7-486B-B570-72751D0D6071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA4B09D-17A7-486B-B570-72751D0D6071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA4B09D-17A7-486B-B570-72751D0D6071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF4FA85-B52C-4587-92E7-0D55645625AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF4FA85-B52C-4587-92E7-0D55645625AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF4FA85-B52C-4587-92E7-0D55645625AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF4FA85-B52C-4587-92E7-0D55645625AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C80ABC3-6A95-4ED6-9265-D901CC6607BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C80ABC3-6A95-4ED6-9265-D901CC6607BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C80ABC3-6A95-4ED6-9265-D901CC6607BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C80ABC3-6A95-4ED6-9265-D901CC6607BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85B7D61-5588-4BC1-8A46-E2A6899CFBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85B7D61-5588-4BC1-8A46-E2A6899CFBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85B7D61-5588-4BC1-8A46-E2A6899CFBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85B7D61-5588-4BC1-8A46-E2A6899CFBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {435417D2-E9A4-4795-9AAB-4B5E4D881D40}
+	EndGlobalSection
+EndGlobal
