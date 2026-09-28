@@ -11,20 +11,11 @@ NOTICE:
 
 	Thanks for taking the time to read this! This document is meant to 
 	provide you with a comprehensive introduction to your new desktop. 
-
-	For most people, the brief intro video (found here: 
-	http://intro.win10widgets.com/) can be consumed quicker and is a more 
-	useful experience. However, if you don't have a stable internet 
-	connection or simply prefer to read, look ahead to learn more about 
-	what Win11 Widgets can do for you!
 	
 Index:
 
 	About
 	Welcome Widget
-		Updates
-		Donate
-		Share
 	Adding/Removing Widgets
 	Changing Widget Size
 	Positioning Widgets
@@ -49,7 +40,7 @@ About:
 	starting from scratch and engineering each widget with an emphasis on 
 	functional simplicity, Win11 Widgets adapts to you instead of the 
 	other way around. Win11 Widgets works with any wallpaper, any screen 
-	size, and uses your unique Windows 10 accent color to adapt to the 
+	size, and uses your unique Windows 11 accent color to adapt to the 
 	personalized experience you've already created. 
 
 	Best of all, there are no programming skills required; everything just 
@@ -63,40 +54,18 @@ Welcome Widget:
 	notification area (i.e. system tray), selecting 
 	"Skins" -> "Win11 Widgets" -> "Welcome", and clicking "Welcome.ini".
 
-	The Welcome widget is where you have the option to read this document, 
-	watch an intro video, and/or perform a few other actions that are 
-	outlined below:
+	The Welcome widget shows a preview of what your desktop can look like 
+	(click the screenshot to view it full size) and has two buttons:
 
-	Updates! (the green button)
+	Read the intro guide
 
-		The first button (the green one) gives you the ability to receive 
-		notifications about future Win11 Widgets updates, tutorials, and 
-		new widgets as soon as they're released. To subscribe, simply 
-		click the green "Send Me Updates!" button and you will be 
-		redirected to a website where you can sign up.
-
-		The Win11 Widgets privacy policy is simple: 
-		"No spam. No sharing your email. Ever. Period."
-
-		You aren't required to sign up, however it is strongly encouraged. 
-		If you don't sign up, you'll miss out on all the awesome 
-		features coming in the the next version of Win11 Widgets!
+		Opens this document.
 	
-	Donate :) (the purple button)
+	Donate with PayPal (the accent coloured button)
 
-		The second button (the purple one) gives you the ability to donate 
-		to my college fund. If you enjoy my work and are looking for a way 
-		to express your gratitude, please help me pay off my student 
-		loans :)
-		
-		You can read more at http://donate.win10widgets.com
-	
-	Share! (the blue and red buttons)
-
-		The rest of the buttons (the blue and red ones) give you the 
-		ability to share Win11 Widgets on social media. If you enjoy your 
-		new desktop, please consider sharing it with your friends; I'm 
-		sure they'll appreciate the tip!
+		If you enjoy Win11 Widgets and want to support its development, 
+		this button opens a PayPal donation page:
+		https://www.paypal.com/paypalme/isuserformula
 		
 	To close the Welcome widget, simply click the "X" in the top right 
 	corner.
@@ -104,9 +73,7 @@ Welcome Widget:
 	Remember, you can always bring the Welcome widget back by 
 	right-clicking the Rainmeter "raindrop" icon in the notification area 
 	(i.e. system tray), selecting "Skins" -> "Win11 Widgets" -> "Welcome", 
-	and clicking "Welcome.ini". This is useful if you decide at some point 
-	that you'd like to receive updates, donate to my college fund :), or 
-	share Win11 Widgets on social media.
+	and clicking "Welcome.ini".
 	
 Adding/Removing Widgets:
 
@@ -195,7 +162,4 @@ Special Widgets:
 	YouTube video, or a text file like this one.
 
 
-Thats it!
-
-If you're still confused, please watch the following video: 
-http://intro.win10widgets.com	
+That's it!
