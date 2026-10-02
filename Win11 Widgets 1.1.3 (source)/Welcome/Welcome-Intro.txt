@@ -1,0 +1,165 @@
+; ------------------------------------------------------------------------
+;
+;	Win11 Widgets for Rainmeter - Welcome (intro)
+;		Author   - ketamine
+;		Based on - Win10 Widgets by TJ Markham (http://win10widgets.com)
+;		License  - Creative Commons BY-NC-SA 4.0
+;
+; ------------------------------------------------------------------------
+
+NOTICE:
+
+	Thanks for taking the time to read this! This document is meant to 
+	provide you with a comprehensive introduction to your new desktop. 
+	
+Index:
+
+	About
+	Welcome Widget
+	Adding/Removing Widgets
+	Changing Widget Size
+	Positioning Widgets
+	Widget Options
+	Special Widgets
+	
+About:
+
+	Your desk has more on it than a bunch of folders and files, why should
+	your computer desktop be any different?
+	
+	Win11 Widgets transforms your desktop from a collection of folders and
+	files to a place where you can find all the information you need, when
+	you need it. Weather, WiFi, battery, music, and more; all available at
+	a glance. 
+	
+	Plus it looks cool! Like those futuristic computers you always see in 
+	the movies (we're looking at you, Iron Man and Minority Report).
+	
+	Unlike widgets before it, Win11 Widgets blends into the background and 
+	makes the information you need the focus of your experience. By 
+	starting from scratch and engineering each widget with an emphasis on 
+	functional simplicity, Win11 Widgets adapts to you instead of the 
+	other way around. Win11 Widgets works with any wallpaper, any screen 
+	size, and uses your unique Windows 11 accent color to adapt to the 
+	personalized experience you've already created. 
+
+	Best of all, there are no programming skills required; everything just 
+	works!
+
+Welcome Widget:
+
+	The first thing you'll see when you load Win11 Widgets is the Welcome 
+	widget. If you've already closed it, no worries! You can always bring 
+	it back by right-clicking the Rainmeter "raindrop" icon in the 
+	notification area (i.e. system tray), selecting 
+	"Skins" -> "Win11 Widgets" -> "Welcome", and clicking "Welcome.ini".
+
+	The Welcome widget shows a preview of what your desktop can look like 
+	(click the screenshot to view it full size) and has two buttons:
+
+	Read the intro guide
+
+		Opens this document.
+	
+	Donate with PayPal (the accent coloured button)
+
+		If you enjoy Win11 Widgets and want to support its development, 
+		this button opens a PayPal donation page:
+		https://www.paypal.com/paypalme/isuserformula
+		
+	To close the Welcome widget, simply click the "X" in the top right 
+	corner.
+
+	Remember, you can always bring the Welcome widget back by 
+	right-clicking the Rainmeter "raindrop" icon in the notification area 
+	(i.e. system tray), selecting "Skins" -> "Win11 Widgets" -> "Welcome", 
+	and clicking "Welcome.ini".
+	
+Adding/Removing Widgets:
+
+	Adding and removing widgets is easy! To add a widget, start by 
+	right-clicking the Rainmeter "raindrop" icon in the notification area 
+	(i.e. system tray) and selecting "Skins" -> "Win11 Widgets". Next, 
+	select the name of the widget you want to add and click the variation 
+	(i.e. size) of your chosen widget to add it to your desktop.
+	
+	To remove a widget, simply right-click it and select "Unload skin." 
+	
+	If, for some reason, you cannot right-click the widget you want to 
+	remove, right-click the Rainmeter "raindrop" icon in the notification 
+	area (i.e. system tray), select the name of the widget you wish to 
+	remove (e.g. "Win11 Widgets/DateTime"), and  select "Unload skin."
+
+Changing Widget Size:
+
+	Each widget offers a selection of various sizes. If you want to change 
+	the size of a widget that is already on your desktop, simply 
+	right-click the widget, select "Variants", and click the size you want 
+	to use.
+
+	If, for some reason, you cannot right-click the widget you want to 
+	resize, right-click the Rainmeter "raindrop" icon in the notification 
+	area (i.e. system tray), select the name of the widget you wish to 
+	resize (e.g. "Win11 Widgets/DateTime"), select "Variants", and click 
+	the size you want to use.
+	
+Positioning Widgets:
+
+	To position a widget, simply click and drag it wherever you like. 
+	Widgets will snap to the edge of your screen, unless this feature has 
+	been disabled. To disable this option, right-click the widget, select 
+	"Settings", and click the "Snap-to-edges" option. The same steps can 
+	be followed to re-enable this option.
+
+	If your widgets aren't able to be dragged, make sure that the Lock 
+	widget isn't in the "locked" state. To "unlock" the lock widget, 
+	simply click it. For more information about the Lock widget, please 
+	see the "Special widgets" section below.
+
+Widget Options:
+
+	Several widgets offer options that allow you to change how the 
+	information provided by the widget is displayed. These options can be 
+	found by right-clicking on the widget and looking under the header 
+	"Custom skin actions".
+	
+	Some examples of these options include:
+	
+	- Date/Time widget:
+		- 12-hour time
+		- 24-hour time
+	- HardDrive widget:
+		- Auto-select drive
+		- Select from available drives
+	- WiFi widget:
+		- Show % signal strength
+		- Hide % signal strength
+	- Lock:
+		- Light icon
+		- Dark icon
+		- Help
+	- Weather:
+		- Auto-location
+		- Set location
+		- Imperial units (F)
+		- Metric units (C)
+		- 12-hour time
+		- 24-hour time
+
+	If, for some reason, you cannot right-click the widget you want to 
+	view the options for, right-click the Rainmeter "raindrop" icon in the 
+	notification area (i.e. system tray), select the name of the widget 
+	you wish to view the options for (e.g. "Win11 Widgets/DateTime"), and 
+	look under the header "Custom skin actions".
+
+Special Widgets:
+
+	The "Lock" and "LayoutSwitcher" widgets are a little different than 
+	the other Win11 Widgets. If you need assistance with these widgets, 
+	there is a "Help" option that can be found using the steps outlined in 
+	the "Widget options" section above. Depending on the status of your 
+	internet connection, the "Help" option will either direct you to a 
+	YouTube video, or a text file like this one.
+
+
+That's it!

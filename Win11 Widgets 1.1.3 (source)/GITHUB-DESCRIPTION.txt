@@ -1,0 +1,1 @@
+﻿A Windows 11 remake of the classic Win10 Widgets for Rainmeter. Rounded Fluent design, TranslucentTB-style backgrounds (Opaque, Clear, Blur, Acrylic), working weather and Spotify, Task Manager-style performance graphs and wireless device batteries. Based on Win10 Widgets by TJ Markham.
